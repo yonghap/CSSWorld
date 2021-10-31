@@ -12,4 +12,6 @@
 - [수직 팬케이크 디자인 - PancakeStack](https://github.com/yonghap/CSSWorld/blob/main/posts/04.PancakeStack.md)
 - [성배 디자인 - HolyGrail](https://github.com/yonghap/CSSWorld/blob/main/posts/05.HolyGrailLayout.md)
 - [12 그리드 - 12-Span Grid](https://github.com/yonghap/CSSWorld/blob/main/posts/06.12-SpanGrid.md)
+- [콘텐츠 박스 - RAM(Repeat, Auto, Minman)](https://github.com/yonghap/CSSWorld/blob/main/posts/07.RAM.md)
+
 
