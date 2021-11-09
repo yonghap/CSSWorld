@@ -27,6 +27,6 @@ grid를 기반으로 적은 라인수로 효율적인 레이아웃을 만듭니�
 
 ## Animation
 
-CSS로 여러가지 애니메이션 효과를 적용합니다.
+CSS를 활용하여 여러가지 애니메이션 효과를 적용합니다.
 
 - [타이핑 효과 - Typing Effect](https://github.com/yonghap/CSSWorld/blob/main/posts/11.TypingEffect.md)
