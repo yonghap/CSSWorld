@@ -11,6 +11,7 @@ grid를 기반으로 적은 라인수로 효율적인 레이아웃을 만듭니�
 - [Flex 가운데 정렬 - FlexCenter](https://github.com/yonghap/CSSWorld/blob/main/posts/01.FlexCenter.md)
 - [Margin 가운데 정렬 - MarginCenter](https://github.com/yonghap/CSSWorld/blob/main/posts/01.AutobotCenter.md)
 - [Fulffy 가운데 정렬 - FluffyCenter](https://github.com/yonghap/CSSWorld/blob/main/posts/01.FluffyCenter.md)
+- [Absolute 가운데 정렬 - AbsoluteCenter](https://github.com/yonghap/CSSWorld/blob/main/posts/01.AbsoluteCenter.md)
 - [팬케이크 디자인 - Pancake](https://github.com/yonghap/CSSWorld/blob/main/posts/02.Pancake.md)
 - [사이드바 - Sidebar](https://github.com/yonghap/CSSWorld/blob/main/posts/03.Sidebar.md)
 - [수직 팬케이크 디자인 - PancakeStack](https://github.com/yonghap/CSSWorld/blob/main/posts/04.PancakeStack.md)
